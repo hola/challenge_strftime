@@ -1,0 +1,9 @@
+{
+  "name": "challenge",
+  "version": "0.0.1",
+  "description": "The challenge: make strftime 50x faster",
+  "main": "bench.js",
+  "dependencies": {
+    "benchmark": "~1.x"
+  }
+}
