@@ -1,4 +1,4 @@
-# Hola JS Challenge - make strftime 50x faster
+# <img src=https://hola.org/img/hola_clean.png> Hola JS Challenge - make strftime 50x faster
 
 Make strftime 50x faster than original JS, and 25% faster than GNU libc strftime.
 * [Submissions](submissions)
